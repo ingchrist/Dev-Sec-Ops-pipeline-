@@ -14,7 +14,7 @@
 
   </div>
 
-  <h3 align="center">Build a Scalable Production Ready API</h3>
+  <h3 align="center">Build a Scalable Production Ready DevSecOps API</h3>
 
    
 </div>
