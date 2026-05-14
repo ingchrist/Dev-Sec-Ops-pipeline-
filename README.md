@@ -151,6 +151,6 @@ Assets and snippets used in the project
 
 ## <a name="more">🚀 More</a>
 
-**Advance your skills with Next.js Pro Course**
+
 
 
